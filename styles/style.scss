@@ -1,0 +1,35 @@
+$primary-font: 'Josefin Slab';
+$nav-font: 'Raleway';
+$primary-color: #696969;
+$accent-color: #0f899f;
+$accent-hover-color: #05c1e3;
+$emphasis-color: #000000;
+$emphasis-hover-color: #000000;
+$background-color: #f5f0eb;
+
+
+@import 'bootstrap';
+
+@import 'normalize';
+
+
+// MEDIUM DESKTOPS
+@media (max-width: 1200px) { 
+} 
+
+// TABLETS
+@media (max-width: 992px) { 
+} 
+
+// LARGE PHONES
+@media (max-width: 768px) {
+} 
+
+// Med PHONES
+@media (max-width: 600px) {
+} 
+
+// IPHONE
+@media (max-width: 450px) {
+} 
+
